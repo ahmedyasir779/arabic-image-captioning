@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # 🎨 Arabic Image Captioning System
 
 Multi-modal AI system that generates Arabic descriptions for food images by combining Computer Vision and Arabic NLP.
@@ -254,6 +254,3 @@ MIT License - see [LICENSE](LICENSE) file
 *Combining Computer Vision + Arabic NLP*
 
 Built with ❤️ in Saudi Arabia
-EOF
-
-echo "✅ README created!"
