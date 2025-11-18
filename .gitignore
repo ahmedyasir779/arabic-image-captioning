@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+*.pyc
+__pycache__/
+
+# Temp files
+temp_image.jpg
+*.tmp
+
+# Models (referenced, not stored)
+models/
+
+# Data
+data/
+
+# System
+.DS_Store
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/
